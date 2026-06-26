@@ -1,13 +1,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Swapnil%20Mandekar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20CS%20%40%20VIT%20Pune&descAlignY=55&descAlign=50" />
 </p>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Building+Intelligent+Systems+%F0%9F%A4%96;AI+%7C+ML+%7C+Full+Stack+%7C+;Computer+Science+%40+VIT+Pune+%7C+CGPA%3A+9.18" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Building+Intelligent+Systems+%F0%9F%A4%96;AI+%7C+ML+%7C+Full+Stack+%7C+Systems+Engineering;Computer+Science+%40+VIT+Pune+%7C+CGPA%3A+9.18" alt="Typing SVG" />
   </a>
 </p>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20(AIML)-7C3AED?style=for-the-badge&logo=academia&logoColor=white" />
@@ -17,7 +15,9 @@
   <img src="https://img.shields.io/badge/Batch-2024--2028-5B21B6?style=for-the-badge&logo=graduation-cap&logoColor=white" />
 </p>
 
-
+<p align="center">
+  <img src="https://img.shields.io/badge/📍%20Pune%2C%20Maharashtra%2C%20India-1E1B4B?style=flat-square&logoColor=white" />
+</p>
 
 <p align="center">
   <a href="mailto:swapnilavinashmandekar@gmail.com">
@@ -33,6 +33,13 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SWAPNILMANDEKAR-20&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/SWAPNILMANDEKAR-20?style=flat-square&color=6D28D9&label=FOLLOWERS" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/SWAPNILMANDEKAR-20?style=flat-square&color=5B21B6&label=STARS" />
+</p>
 
 ---
 
