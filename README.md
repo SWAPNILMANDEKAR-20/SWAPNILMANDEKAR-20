@@ -236,30 +236,21 @@ current_focus:
 ```
 
 ---
-
 ## ◈ Connect
 
 <p align="center">
   <a href="mailto:swapnilavinashmandekar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-swapnilavinashmandekar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-<p align="center">
   <a href="https://linkedin.com/in/SWAPNILMANDEKAR">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Swapnil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
-<p align="center">
   <a href="https://github.com/SWAPNILMANDEKAR-20">
     <img src="https://img.shields.io/badge/GitHub-SWAPNILMANDEKAR--20-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
-
-<p align="center">
-  <em>"Engineering is not just about writing code — it is about building systems that outlast the moment they were made."</em>
-</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=footer" />
 </p>
