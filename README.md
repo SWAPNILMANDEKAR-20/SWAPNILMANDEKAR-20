@@ -215,43 +215,6 @@ Developing an AI-powered **Answer Sheet Evaluation System** that automates the a
 
 </div>
 
----
-
-## ◈ Certifications
-
-<p align="center"><strong>AI / ML & Development</strong></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Google-AI%20Agentic%20Hackathon-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/AI%2FML-Participation%20Certificates-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white" />
-</p>
-
-<p align="center"><strong>Academic & Community</strong></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/IEEE%20CIS-Research%20Internship-00629B?style=for-the-badge&logo=ieee&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/VIT%20Pune-Ekasutram%20Math%20Club-6D28D9?style=for-the-badge&logo=academia&logoColor=white" />
-</p>
-
----
-
-## ◈ Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-DSA%20Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  &nbsp;
-  <a href="https://www.geeksforgeeks.org/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Events-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.hackerrank.com/">
-    <img src="https://img.shields.io/badge/HackerRank-Problem%20Solving-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
-  </a>
-</p>
 
 ---
 
