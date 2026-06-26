@@ -90,7 +90,7 @@ Beyond code, I am an active participant in hackathons and competitive programmin
 
 ---
 
-## ◈ Featured Projects
+## ◈ Projects
 
 <details>
 <summary><b>◆ PlantGuard AI — Plant Disease Detection & Smart Farming Assistant</b></summary>
@@ -108,10 +108,7 @@ An enterprise-grade AI-powered agricultural intelligence platform that combines 
 | **Repository** | [github.com/SWAPNILMANDEKAR-20](https://github.com/SWAPNILMANDEKAR-20) |
 
 Built with a product-first engineering mindset — the system integrates disease diagnosis, treatment recommendations, soil analysis, irrigation guidance, voice assistance, and automated PDF report generation into a single cohesive platform. The multi-model ensemble (CNN + ResNet18 + MobileNetV2) ensures prediction robustness across diverse crop types and environmental conditions.
-
 </details>
-
----
 
 <details>
 <summary><b>◆ TatvaAI — Multimodal News & Video Analysis Platform</b></summary>
@@ -132,8 +129,6 @@ The platform integrates speech-to-text extraction, transformer-based fake news d
 
 </details>
 
----
-
 <details>
 <summary><b>◆ Quantum-AI Resource Monitor — Intelligent System Analytics Dashboard</b></summary>
 <br/>
@@ -152,8 +147,6 @@ A high-performance AI-powered system monitoring application that exposes low-lev
 The JNI bridge between Java and native Windows APIs eliminates abstraction overhead, allowing the dashboard to render live system charts, manage processes, and surface AI-driven resource usage predictions with minimal latency.
 
 </details>
-
----
 
 <details>
 <summary><b>◆ Skill Swap — Student Collaboration & Skill Exchange Platform</b></summary>
