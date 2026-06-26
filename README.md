@@ -16,9 +16,7 @@
   <img src="https://img.shields.io/badge/Batch-2024--2028-5B21B6?style=for-the-badge&logo=graduation-cap&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/📍%20Pune%2C%20Maharashtra%2C%20India-1E1B4B?style=flat-square&logoColor=white" />
-</p>
+
 
 <p align="center">
   <a href="mailto:swapnilavinashmandekar@gmail.com">
@@ -34,13 +32,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SWAPNILMANDEKAR-20&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/SWAPNILMANDEKAR-20?style=flat-square&color=6D28D9&label=FOLLOWERS" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/SWAPNILMANDEKAR-20?style=flat-square&color=5B21B6&label=STARS" />
-</p>
 
 ---
 
