@@ -4,9 +4,10 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Building+Intelligent+Systems+%F0%9F%A4%96;AI+%7C+ML+%7C+Full+Stack+%7C+Systems+Engineering;Computer+Science+%40+VIT+Pune+%7C+CGPA%3A+9.18" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Building+Intelligent+Systems+%F0%9F%A4%96;AI+%7C+ML+%7C+Full+Stack+%7C+;Computer+Science+%40+VIT+Pune+%7C+CGPA%3A+9.18" alt="Typing SVG" />
   </a>
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20(AIML)-7C3AED?style=for-the-badge&logo=academia&logoColor=white" />
