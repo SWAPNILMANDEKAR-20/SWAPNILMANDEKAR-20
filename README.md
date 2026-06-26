@@ -218,24 +218,7 @@ Developing an AI-powered **Answer Sheet Evaluation System** that automates the a
   <img src="https://img.shields.io/badge/Educational%20AI-3730A3?style=flat-square" />
 </p>
 
----
 
-## ◈ Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|:---:|:---|
-| 🏆 Google AI Agentic Hackathon | Participated in Google's flagship AI hackathon, building agentic AI systems |
-| 🎓 CGPA 9.18 / 10 | Top academic performance in Computer Science (AIML), VIT Pune |
-| 💻 LeetCode DSA Practice | Consistent competitive programming and algorithmic problem-solving |
-| 📐 Ekasutram Member | Active member of the Mathematics Club at VIT Pune — technical discussions & events |
-| 🏅 GFG Coding Events | Participated in GeeksforGeeks coding competitions and challenges |
-| 📜 AI/ML Certifications | Earned multiple participation and completion certificates in AI/ML and development domains |
-
-</div>
-
----
 
 ## ◈ GitHub Analytics
 
