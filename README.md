@@ -99,14 +99,14 @@ Beyond code, I am an active participant in hackathons and competitive programmin
 
 <div align="center">
 
-| Domain | Proficiency | Details |
-|:---|:---:|:---|
-| Computer Vision | ██████████ Advanced | CNN, ResNet18, MobileNetV2, OpenCV, Image Classification |
-| Natural Language Processing | █████████░ Advanced | Transformers, Semantic Similarity, Text Summarization |
-| Multimodal AI | ████████░░ Proficient | Audio + Text + Vision Fusion, Speech-to-Text Pipelines |
-| Deep Learning | █████████░ Advanced | Model Ensembling, Transfer Learning, Inference Optimization |
-| AI Systems Design | ████████░░ Proficient | End-to-End AI Pipeline Architecture, Real-Time Inference |
-| Fake News Detection | ███████░░░ Intermediate | Transformer-based Classification, Feature Engineering |
+| Domain | Details |
+|:---|:---|
+| Computer Vision | CNN, ResNet18, MobileNetV2, OpenCV, Image Classification |
+| Natural Language Processing |  Transformers, Semantic Similarity, Text Summarization |
+| Multimodal AI | Proficient | Audio + Text + Vision Fusion, Speech-to-Text Pipelines |
+| Deep Learning | Advanced | Model Ensembling, Transfer Learning, Inference Optimization |
+| AI Systems Design | Proficient | End-to-End AI Pipeline Architecture, Real-Time Inference |
+| Fake News Detection |  Intermediate | Transformer-based Classification, Feature Engineering |
 
 </div>
 
