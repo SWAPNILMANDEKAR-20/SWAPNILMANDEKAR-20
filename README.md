@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Building+Intelligent+Systems+%F0%9F%A4%96;AI+%7C+ML+%7C+Full+Stack+%7C+Systems+Engineering;Computer+Science+%40+VIT+Pune+%7C+CGPA%3A+9.18" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Computer+Science+%40+VIT+Pune+%7C+CGPA%3A+9.18" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,9 +15,7 @@
   <img src="https://img.shields.io/badge/Batch-2024--2028-5B21B6?style=for-the-badge&logo=graduation-cap&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/📍%20Pune%2C%20Maharashtra%2C%20India-1E1B4B?style=flat-square&logoColor=white" />
-</p>
+
 
 <p align="center">
   <a href="mailto:swapnilavinashmandekar@gmail.com">
@@ -33,19 +31,13 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SWAPNILMANDEKAR-20&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/SWAPNILMANDEKAR-20?style=flat-square&color=6D28D9&label=FOLLOWERS" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/SWAPNILMANDEKAR-20?style=flat-square&color=5B21B6&label=STARS" />
-</p>
+
 
 ---
 
 ## ◈ About
 
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=SWAPNILMANDEKAR-20&show_icons=true&theme=tokyonight&hide_border=true&title_color=7C3AED&icon_color=6D28D9&text_color=C4B5FD&bg_color=0D0D1A" />
+
 
 I am a **Computer Science undergraduate** specialising in **Artificial Intelligence & Machine Learning** at Vishwakarma Institute of Technology, Pune — maintaining a **CGPA of 9.18**.
 
@@ -275,31 +267,7 @@ Developing an AI-powered **Answer Sheet Evaluation System** that automates the a
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SWAPNILMANDEKAR-20&theme=tokyonight&hide_border=true&stroke=7C3AED&ring=6D28D9&fire=5B21B6&currStreakLabel=C4B5FD&background=0D0D1A&sideLabels=C4B5FD&dates=8B5CF6" />
 </p>
 
----
 
-## ◈ GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SWAPNILMANDEKAR-20&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7&title_color=7C3AED" />
-</p>
-
----
-
-## ◈ Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SWAPNILMANDEKAR-20&bg_color=0D0D1A&color=C4B5FD&line=7C3AED&point=6D28D9&area=true&hide_border=true&area_color=4C1D95" />
-</p>
-
----
-
-## ◈ Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SWAPNILMANDEKAR-20/SWAPNILMANDEKAR-20/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
 
 ## ◈ Current Focus
 
