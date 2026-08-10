@@ -186,19 +186,6 @@ Developing an AI-powered **Answer Sheet Evaluation System** that automates the a
   <img src="https://img.shields.io/badge/Educational%20AI-3730A3?style=flat-square" />
 </p>
 
-
-
-## ◈ GitHub Analytics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SWAPNILMANDEKAR-20&show_icons=true&theme=tokyonight&hide_border=true&title_color=7C3AED&icon_color=6D28D9&text_color=C4B5FD&bg_color=0D0D1A&count_private=true" />
-  &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SWAPNILMANDEKAR-20&layout=compact&theme=tokyonight&hide_border=true&title_color=7C3AED&text_color=C4B5FD&bg_color=0D0D1A&langs_count=8" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SWAPNILMANDEKAR-20&theme=tokyonight&hide_border=true&stroke=7C3AED&ring=6D28D9&fire=5B21B6&currStreakLabel=C4B5FD&background=0D0D1A&sideLabels=C4B5FD&dates=8B5CF6" />
-</p>
-
 ## ◈ Current Focus
 
 ```yaml
