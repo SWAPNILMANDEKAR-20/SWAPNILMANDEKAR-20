@@ -31,7 +31,7 @@
 
 ## ◈ About
 
-I am a **Computer Science undergraduate** specialising in **Artificial Intelligence & Machine Learning** at Vishwakarma Institute of Technology, Pune — maintaining a **CGPA of 9.18**.
+I am a **Computer Science undergraduate** specialising in **Artificial Intelligence & Machine Learning** at Vishwakarma Institute of Technology, Pune maintaining a **CGPA of 9.18**.
 
 My engineering focus spans the full spectrum of modern software development: from designing **multimodal AI pipelines** and **deep learning inference systems** to building **production-grade full-stack applications**. I approach software with a product engineering mindset — every system I build is shaped by real-world impact, scalability, and end-user accessibility.
 Beyond code, I am an active participant in hackathons and competitive programming, a member of **Ekasutram** (Mathematics Club at VIT), and a practitioner of DSA on LeetCode.
