@@ -1,11 +1,14 @@
+<!-- ======================= HEADER ======================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Swapnil%20Mandekar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20CS%20%40%20VIT%20Pune&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Swapnil%20Mandekar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20CS%20%40%20VIT%20Pune&descAlignY=55&descAlign=50" />
 </p>
+
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Computer+Science+%40+VIT+Pune+%7C+CGPA%3A+9.18" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=750&height=60&lines=Computer+Science+%40+VIT+Pune+%7C+CGPA%3A+9.18;AI+%26+ML+%7C+Full+Stack+Development;Building+AI-Powered+Real-World+Applications" 
+  alt="Typing SVG" />
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20(AIML)-7C3AED?style=for-the-badge&logo=academia&logoColor=white" />
   &nbsp;
@@ -13,59 +16,123 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Batch-2024--2028-5B21B6?style=for-the-badge&logo=graduation-cap&logoColor=white" />
 </p>
+
 <p align="center">
+  <a href="https://swapnilmandekar-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  &nbsp;
   <a href="mailto:swapnilavinashmandekar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-swapnilavinashmandekar-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/swapnil-mandekar/">
-    <img src="https://img.shields.io/badge/LinkedIn-Swapnil%20Mandekar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://github.com/SWAPNILMANDEKAR-20">
-    <img src="https://img.shields.io/badge/GitHub-SWAPNILMANDEKAR--20-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/SwapnilMandekar/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## ◈ About
+<!-- ======================= ABOUT ======================= -->
 
-I am a **Computer Science undergraduate** specialising in **Artificial Intelligence & Machine Learning** at Vishwakarma Institute of Technology, Pune maintaining a **CGPA of 9.18**.
+## 🧠 About Me
 
-My engineering focus spans the full spectrum of modern software development: from designing **multimodal AI pipelines** and **deep learning inference systems** to building **production-grade full-stack applications**. I approach software with a product engineering mindset — every system I build is shaped by real-world impact, scalability, and end-user accessibility.
-Beyond code, I am an active participant in hackathons and competitive programming, a member of **Ekasutram** (Mathematics Club at VIT), and a practitioner of DSA on LeetCode.
+> **Computer Science undergraduate specializing in Artificial Intelligence & Machine Learning at VIT Pune.**
 
-**Open To:** Research Collaborations · Internships · Open Source Contributions · AI/ML Projects
+I build **AI-powered applications, machine learning systems, and full-stack web applications** with a focus on solving practical problems.
+
+### 🎯 Areas of Interest
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Machine%20Learning-6D28D9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Generative%20AI-5B21B6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NLP-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Computer%20Vision-6D28D9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Full%20Stack-5B21B6?style=for-the-badge" />
+
+</p>
+
+### 🚀 Currently
+
+- 🤖 Building AI/ML projects and intelligent applications
+- 💻 Practicing Data Structures & Algorithms
+- 🧠 Exploring Generative AI and NLP
+- 🌐 Building full-stack applications
+- 📚 Learning scalable software and AI system design
+
+**Open To:** Research Collaborations · Internships · Open Source · AI/ML Projects
 
 ---
 
+<!-- ======================= TECH STACK ======================= -->
 
-## ◈ Tech Stack
+## 🛠️ Tech Stack
+
+### 💻 Languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00427E?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00427E?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
 </p>
+
+### 🤖 AI / ML
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+
+</p>
+
+### 🌐 Full Stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+</p>
+
+### 🗄️ Databases & Cloud
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+</p>
+
+### 🔧 Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+
 </p>
 
 ---
