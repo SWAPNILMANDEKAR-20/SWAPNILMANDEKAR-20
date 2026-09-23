@@ -178,46 +178,6 @@ Pune, Maharashtra, India · CGPA 9.18/10.0 @ Vishwakarma Institute of Technology
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=SWAPNILMANDEKAR-20&theme=github_dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SWAPNILMANDEKAR-20&layout=compact&theme=github_dark&hide_border=true" />
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=SWAPNILMANDEKAR-20&theme=github-dark&hide_border=true" />
-
-</p>
-
----
-
-## 📈 Activity Overview
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SWAPNILMANDEKAR-20&theme=github-compact&hide_border=true&area=true" />
-
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/SWAPNILMANDEKAR-20/SWAPNILMANDEKAR-20/output/github-contribution-grid-snake.svg" />
-
-</p>
-
----
-
 <p align="center">
 
 <a href="https://swapnilmandekar-portfolio.vercel.app">
